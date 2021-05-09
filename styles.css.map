@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["sass/styles.scss","sass/include/global.scss","sass/include/typography.scss","sass/include/variables.scss"],"names":[],"mappings":"AAAQ;AAER;ACFA;AAEA;EACI;EACA;;;ACJJ;AAEA;EACI,aCHS;;;ADMb;EACI,aCNW;;;ADSf;EACI,aCTS;;;ADYb;EACI;;;AAGJ;EACI;;;AAGJ;EACI;;;AAGJ;EACI","file":"styles.css"}
